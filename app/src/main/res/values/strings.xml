@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ThesisNote</string>
+    <string name="add_sample_data">Add Sample Data</string>
+    <string name="delete_all_note">Delete all note</string>
+    <string name="all_deleted">All notes are deleted</string>
+    <string name="are_you_sure">Are you sure want to delete?</string>
+    <string name="title_activity_editor_layout">editor_layout</string>
+    <string name="note_updated">Note Updated</string>
+    <string name="delete_note">Delete Note</string>
+    <string name="note_deleted">Note Deleted</string>
+    <string name="document_icon">Document Icon</string>
+    <string name="dummy_text">Dummy Text</string>
+</resources>
